@@ -1,0 +1,3 @@
+test_challenge/public/api/voucherCliente/"dni" -> obtiene los vouchers de los clientes
+test_challenge/public/api/vigencia/"id cliente" -> pase vencido o no
+test_challenge/public/api/user/"dni" -> info cliente
